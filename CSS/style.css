@@ -1,0 +1,101 @@
+html,
+body {
+  height: 100vh;
+  width: 100vw;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+header {
+  padding-top: 2rem;
+  margin-top: 0.5rem;
+  margin-right: 2rem;
+  margin-left: 2rem;
+  margin-bottom: 2rem;
+  border-top: solid black 6px;
+}
+h1 {
+  text-align: center;
+  font-family: helvetica;
+  font-size: 18pt;
+}
+h2 {
+  font-family: helvetica;
+  text-align: center;
+  font-size: 30pt;
+}
+h3 {
+  font-family: helvetica;
+  font-size: 22pt;
+  border-top: solid black 1px;
+  padding-top: 3rem;
+}
+h4 {
+  font-family: helvetica;
+  font-size: 18pt;
+}
+p {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 18pt;
+}
+ul {
+  font-size: 18pt;
+}
+img {
+  margin-top: 2rem;
+  margin-left: 2rem;
+  margin-bottom: 2rem;
+  margin-right: 2rem;
+  border-style: solid;
+  border-width: thin;
+}
+#Role {
+  font-weight: bold;
+  font-style: italic;
+  font-family: helvetica;
+  font-size: 18pt;
+}
+.Education {
+  font-family: helvetica;
+  font-size: 18pt;
+}
+#CompYear {
+  font-family: helvetica;
+  font-size: 18pt;
+}
+.restofcontent {
+  margin-bottom: 3rem;
+  margin-left: 4rem;
+  margin-right: 4rem;
+}
+.biography {
+  margin-bottom: 3rem;
+  margin-left: 4rem;
+  margin-right: 4rem;
+  margin-top: -1.9rem;
+  overflow: auto;
+}
+.bio {
+  padding-bottom: 3rem;
+}
+.headshot {
+  float: right;
+  width: 250px;
+  height: 250px;
+  border: solid black 1px;
+  margin-top: -80px;
+}
+footer {
+  padding-bottom: 2rem;
+  margin-top: -4rem;
+  margin-right: 2rem;
+  margin-left: 2rem;
+  margin-bottom: 2rem;
+  border-bottom: solid black 6px;
+  text-align: center;
+  font-size: 18pt;
+}
+.spacer {
+  height: 1px;
+  width: 70%;
+  border-top: solid 1px black;
+}
